@@ -41,9 +41,8 @@ The robot factory's test facility has a simulator which can take a string of let
   * Turn left
   * Advance once
   * Turn left yet again
-* Say a robot starts at `[7, 3]` facing north.
 
-Then running this stream of instructions should leave it at `[9, 4]` facing west.
+If a robot starts at `[7, 3]` facing north, then running this stream of instructions should leave it at `[9, 4]` facing west.
 
 ## Tests
 
